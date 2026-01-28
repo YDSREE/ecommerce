@@ -22,7 +22,7 @@ mongoose.connect(process.env.MONGODB_URL)
     })
 // console.log(authRoutes)
 app.use("/api",authRoutes)
-app.use("/api/products",productRoutes)
+app.use("/api/product",productRoutes)
 app.get("/",(req,res)=>{
     console.log("get route")
     res.json({"message":"server is running"})
