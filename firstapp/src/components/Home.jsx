@@ -33,7 +33,12 @@ export default function Home() {
       })
       .then(res => {
         if (res.status == 200) {
-          alert("Product added successfully to cart")
+          // alert("Product added successfully to cart")
+          Swal.fire({
+            title: "Product Added to Cart Successfully",
+            icon: "success",
+            draggable: true
+          });
           navigate("/cart")
         }
         else {
