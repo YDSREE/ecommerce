@@ -1,0 +1,62 @@
+/* Full screen background */
+.register-bg {
+  min-height: 100vh;
+  background: url("https://img.freepik.com/premium-vector/geometric-gradient-technology-background_23-2149110132.jpg?semt=ais_hybrid&w=740&q=80")
+    center / cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Glass card */
+.register-card {
+  width: 100%;
+  max-width: 480px; /* slightly wider for more fields */
+  padding: 2.5rem;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+/* Title */
+.register-title {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+
+/* Inputs */
+.custom-input {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  color: #fff;
+  padding: 0.6rem 0;
+}
+
+.custom-input::placeholder {
+  color: #ddd;
+}
+
+.custom-input:focus {
+  background: transparent;
+  color: #fff;
+  box-shadow: none;
+  border-bottom-color: #fff;
+}
+
+/* Button */
+.register-btn {
+  width: 100%;
+  margin-top: 1.5rem;
+  padding: 0.7rem;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #f3f3f5, #f2f2f7);
+  font-weight: 500;
+  transition: transform 0.2s;
+}
