@@ -60,3 +60,11 @@
   font-weight: 500;
   transition: transform 0.2s;
 }
+.register-footer {
+  color: white;          /* text color */
+}
+
+.register-footer a {
+  color: #1e90ff;        /* blue for Login */
+  text-decoration: underline; /* optional */
+}
