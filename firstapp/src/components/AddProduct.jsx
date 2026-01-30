@@ -17,7 +17,7 @@ export default function AddProduct() {
         axios.post("http://localhost:4000/api/product/add",newProduct)
           .then((res)=>{
             console.log(res)
-            if(res.status==201){
+            if(res.status==200){
               alert("Product added successfull")
               navigate("/")
             }
