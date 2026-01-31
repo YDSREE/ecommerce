@@ -26,7 +26,7 @@ export default function Home() {
       });
       return false
     }
-    axios.post("http://localhost:4000/api/cart/add",
+    axios.post("https://ecommerce-6vie.onrender.com/api/cart/add",
       { productId, quantity: 1 },
       {
         params: { userId }
@@ -51,7 +51,7 @@ export default function Home() {
   }
 
   async function fetchProducts() {
-    axios.get("http://localhost:4000/api/product")
+    axios.get("https://ecommerce-6vie.onrender.com/api/product")
       .then((res) => {
         console.log(res.data)
         if (res.status == 200) {
