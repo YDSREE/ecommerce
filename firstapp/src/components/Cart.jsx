@@ -32,7 +32,6 @@ export default function Cart() {
                       <div className="card-body">
                         <h5 className="card-title"><b>Name:</b>{i.product.name}</h5>
                         <p className="card-text"><b>Price: </b>{i.product.price}</p>
-                        <p className="card-text"><b>Category: </b>{i.product.category}</p>
                         <p className="card-text"><b>Description: </b>{i.product.description}</p>
                         <p className="card-text"><b>Stock: </b>{i.product.stock}</p>
                         <p className="card-text"><b>Quantity: </b>{i.quantity}</p>
