@@ -12,7 +12,6 @@ A fully responsive E-commerce web application built using React.js that allows u
 -  Product Listing
 -  Add to Cart & Remove from Cart
 -  Increase / Decrease Product Quantity
--  Dynamic Price Calculation
 -  Fast UI Rendering
 -  Fully Responsive Design
 -  Backend API Integration
@@ -118,5 +117,6 @@ http://localhost:5173
 ##  Developed By
 
 **Yalamanchi Divya Sree**  
-Frontend Developer | React.js  
+B.Tech Student | Frontend Developer  
+React.js | JavaScript | HTML | CSS 
 GitHub: https://github.com/YDSREE  
