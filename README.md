@@ -98,7 +98,14 @@ http://localhost:5173
 
 ##  Screenshots
 
-*(Add screenshots of Home Page, Cart Page, Login Page here for better presentation)*
+<img width="1340" height="629" alt="Screenshot 2026-02-12 233642" src="https://github.com/user-attachments/assets/497cdc86-c014-46e9-974d-06b5a982f457" />
+<img width="1321" height="469" alt="Screenshot 2026-02-12 233833" src="https://github.com/user-attachments/assets/37aab925-7619-4db2-ac1d-1f56c084ed3d" />
+<img width="1358" height="528" alt="Screenshot 2026-02-12 233853" src="https://github.com/user-attachments/assets/9db89481-6d0e-4870-8ce2-82c3fef3976b" />
+<img width="1340" height="630" alt="Screenshot 2026-02-12 233929" src="https://github.com/user-attachments/assets/25e00ef5-5c23-497e-919f-2794d999aab1" />
+<img width="1359" height="626" alt="Screenshot 2026-02-12 234139" src="https://github.com/user-attachments/assets/a35546c1-6c7a-43a7-8db3-b25ac8883395" />
+<img width="1334" height="473" alt="Screenshot 2026-02-12 234201" src="https://github.com/user-attachments/assets/efd468ae-5b0e-4543-bf5e-413a4c2a4e2e" />
+
+
 
 ---
 
